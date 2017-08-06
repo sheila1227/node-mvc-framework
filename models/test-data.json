@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Leonardo DiCaprio",
+        "birth year": 1974,
+        "country": "US",
+        "movies": ["Titanic", "The Revenant", "Inception"]
+    },
+    {
+        "name": "Brad Pitt",
+        "birth year": 1963,
+        "country": "US",
+        "movies": ["Fight Club", "Inglourious Basterd", "Mr. & Mrs. Smith"]
+    },
+    {
+        "name": "Johnny Depp",
+        "birth year": 1963,
+        "country": "US",
+        "movies": ["Edward Scissorhands", "Black Mass", "The Lone Ranger"]
+    }
+]
